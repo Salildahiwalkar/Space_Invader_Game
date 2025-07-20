@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&style=flat-square" alt="Python">
-  <img src="https://img.shields.io/github/license/Salildahiwalkar/Space-Invaders-Clone?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/stars/Salildahiwalkar/Space-Invaders-Clone?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/license/Salildahiwalkar/Space-Invader-Game?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/Salildahiwalkar/Space-Invader-Game?style=flat-square" alt="Stars">
 </p>
 
 # 👾 Space Invaders Clone in Python (Pygame)
